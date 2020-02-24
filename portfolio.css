@@ -2,6 +2,10 @@
     font-family: 'aero';
     src: url('Aero.ttf');
 }
+@font-face {
+    font-family: 'kungfont';
+    src: url('Kungfont-Regular.otf');
+}
 * {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
@@ -159,7 +163,7 @@ nav ul li a:hover {
 }
 .highlight {
     color:#fd588d;
-    font-family: '', cursive;
+    font-family: 'kungfont', cursive;
 
 }
 
