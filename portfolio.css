@@ -1,6 +1,8 @@
 @font-face {
     font-family: 'aero';
     src: url('Aero.ttf');
+    font-family: 'burbank';
+    src: url('BurbankBigCondensed-Bold.otf');
 }
 * {
     -webkit-box-sizing: border-box;
@@ -159,7 +161,7 @@ nav ul li a:hover {
 }
 .highlight {
     color:#fd588d;
-    font-family: 'Over the rainbow', cursive;
+    font-family: 'burbank', cursive;
 
 }
 
